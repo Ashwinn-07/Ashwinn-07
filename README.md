@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Fullstack Developer in training passionate a
 I'm currently focused on full-stack web development. Here are the technologies I've been working with:
 <br>
 
-Frontend: HTML5, CSS3, JavaScript
+Frontend: HTML5, CSS3, JavaScript,React
 <br>
 Backend: Node.js, Express.js
 <br>
