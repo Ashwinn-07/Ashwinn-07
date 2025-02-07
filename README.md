@@ -1,55 +1,20 @@
-Hi, I'm Ashwin Krishna 👋
-<br>
-Welcome to my GitHub profile! I'm a Fullstack Developer in training passionate about building web applications and continuously improving my skills.
-<br>
-🚀 What I'm Learning
-<br>
-I'm currently focused on full-stack web development. Here are the technologies I've been working with:
-<br>
+<h1 align="center">Hi 👋, I'm Ashwin Krishna</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a Fullstack Developer. Passionate about building web applications and continuously improving my skills.</h3>
 
-Frontend: HTML5, CSS3, JavaScript,React
-<br>
-Backend: Node.js, Express.js
-<br>
-Databases: MongoDB
-<br>
-Templating: EJS (Embedded JavaScript)
-<br>
-I love experimenting with new frameworks and tools to create better and more efficient applications.
-<br>
+- 🔭 Currently building awesome things as a **MERN stack developer**
 
-💻 My Project: E-Commerce Website
-<br>
-One of my recent projects is a fully functioning E-commerce Website, built with:
-<br>
+- 👯 Always exploring **new technologies**
 
-Node.js & Express.js for the backend
-<br>
-MongoDB for the database
-<br>
-EJS for dynamic templating on the frontend
-<br>
-HTML5, CSS3, JavaScript for the user interface
-<br>
-Features:
-<br>
-User registration, login, and profile management
-<br>
-Product browsing, filtering, and sorting
-<br>
-Shopping cart with real-time updates
-<br>
-Order management with various statuses (cancel, return)
-<br>
-Coupon management (apply/remove coupons)
-<br>
-Payment integration (Cash on Delivery and Razorpay)
-<br>
-Wishlist management and offer modules
-<br>
-I built this project to understand the workflow of modern web development, from the front-end interface to backend logic and database interaction.
-<br>
+- 🤝 Love **Solving Problems**
 
-💬 Let's Connect!
-<br>
-I'm always excited to connect with other developers and collaborate on open-source projects. Feel free to reach out!
+- 📫 How to reach me **ashwinkrishna785@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwin krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwin krishna" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashwin krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwin krishna" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
